@@ -1,28 +1,29 @@
-# ​ Snake Game
+# 🐍 Snake Game
 
-A classic **Snake Game** implemented in Python — simple, fun, and perfect for honing your programming skills.
+![License](https://img.shields.io/github/license/fatima-firdouse/SnakeGame?color=brightgreen)
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
----
-
-##  Project Overview
-This project features a playable Snake Game written entirely in Python, where the player controls a snake that grows in length as it eats food, and must avoid colliding with the walls or its own tail. Ideal for beginners looking to build a solid grasp of game logic and basic Python programming.
-
----
-
-##  Features
-- Classic snake movement (up, down, left, right).
-- Food that appears at random positions; snake grows upon eating.
-- **Game Over** when the snake hits the wall or collides with itself.
-- Real-time score display.
+A fun and classic **Snake Game** built in Python using the **Pygame** library.  
+Eat the food, grow longer, and avoid hitting the walls or yourself! 🚀
 
 ---
 
-##  Tech Stack
-- **Python** — Core language for game logic and execution.
+## ✨ Features
+
+- 🎮 Smooth and responsive controls
+- 🍎 Randomly spawning food
+- 📈 Score tracking
+- 💥 Game Over detection
+- 🖼️ Customizable colors and speed
 
 ---
 
-##  How to Play
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/fatima-firdouse/SnakeGame.git
+## 📂 Project Structure
+
+```plaintext
+SnakeGame/
+│
+├── snake_game.py      # Main game code
+├── requirements.txt   # Project dependencies
+└── README.md          # Project documentation
