@@ -18,7 +18,26 @@ Eat the food, grow longer, and avoid hitting the walls or yourself! 🚀
 - 🖼️ Customizable colors and speed
 
 ---
+## 📌 Requirements
 
+- Python 3.x
+- pygame library
+
+---
+
+## 🚀 Future Enhancements
+
+- 🏆 High score system
+- 🎵 Background music
+- 🐍 Multiple difficulty levels
+- 🌈 Color themes
+
+---
+## 💡 Author
+
+Fatima Firdouse
+- ✨ Passionate about coding and game development!
+---
 ## 📂 Project Structure
 
 ```plaintext
