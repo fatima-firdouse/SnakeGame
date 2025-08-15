@@ -33,11 +33,6 @@ Eat the food, grow longer, and avoid hitting the walls or yourself! 🚀
 - 🌈 Color themes
 
 ---
-## 💡 Author
-
-Fatima Firdouse
-- ✨ Passionate about coding and game development!
----
 ## 📂 Project Structure
 
 ```plaintext
@@ -46,3 +41,10 @@ SnakeGame/
 ├── snake_game.py      # Main game code
 ├── requirements.txt   # Project dependencies
 └── README.md          # Project documentation
+```
+---
+## 💡 Author
+
+Fatima Firdouse
+- ✨ Passionate about coding and game development!
+---
